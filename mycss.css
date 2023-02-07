@@ -1,8 +1,6 @@
 body{
-    background-color: burlywood;
-    margin-right: 100px;
-    margin-left: 100px;
-    padding: 100px;
+    background-color: black;
+    
 }
 
 strong{
@@ -61,7 +59,18 @@ img{
     box-shadow: darkblue;
 }
 img:hover{
-    box-shadow: 10px 10px darkblue;
+    box-shadow: 10px 10px black;
+    width: 250px;
+    height: 250px;
+}
+div{
+  background-color: white;
+  margin-right: 100px;
+    margin-left: 100px;
+    padding: 100px;
+    
+    
+    
 }
 
 table{
